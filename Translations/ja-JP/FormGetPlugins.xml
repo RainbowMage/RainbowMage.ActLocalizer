@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ControlText Form="FormGetPlugins">
+    <Control ControlPath="root" UniqueName="btnUsePlugin" Text="Download and Enable" />
+    <Control ControlPath="root" UniqueName="groupBox2" Text="Plugin Description" />
+    <Control ControlPath="root" UniqueName="groupBox1" Text="Plugin Titles" />
+</ControlText>

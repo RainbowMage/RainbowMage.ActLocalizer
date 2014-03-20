@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfTreeViewTranslationEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TreeViewTranslationEntry Original="Miscellaneous">全般設定</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Sound Settings">サウンド</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Configuration Import/Export">設定のインポートとエクスポート</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="XML Share Snippets">XML共有スニペット</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="XML Config Subscriptions">XML設定の購読</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="LCD Display Options">LCDの設定</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Monochrome LCD Options">モノクロLCD</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Color LCD Options">ｶﾗｰLCD</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Main Table/Encounters">メインテーブル/エンカウント</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="General">一般設定</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Encounter Culling">エンカウントの除去</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Zone View Options">ゾーンビュー</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Encounter View Options">エンカウントビュー</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Combatant View Options">戦闘情報ビュー</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="DamageType View Options">ダメージ種別ビュー</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="AttackType View Options">攻撃種別ビュー</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Output Display">出力画面</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Graphing">グラフ生成</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Mini Parse Window">ミニパースウィンドウ</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Text Export Settings">テキスト出力設定</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="ODBC (SQL)">ODBC (SQL)</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="ACT Web Server">ACT Web Server</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="HTML File Generation">HTMLファイル出力</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Color and Font Settings">色とフォントの設定</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Main User Interface">メインユーザインタフェース</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Selective Parsing">選択的分析</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Data Correction">データの訂正</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Combatant Rename">戦闘情報の改名</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Ability Redirect">アビリティリダイレクト</TreeViewTranslationEntry>
+</ArrayOfTreeViewTranslationEntry>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfTreeViewTranslationEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TreeViewTranslationEntry Original="Miscellaneous">Miscellaneous</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Sound Settings">Sound Settings</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Configuration Import/Export">Configuration Import/Export</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="XML Share Snippets">XML Share Snippets</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="XML Config Subscriptions">XML Config Subscriptions</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="LCD Display Options">LCD Display Options</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Monochrome LCD Options">Monochrome LCD Options</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Color LCD Options">Color LCD Options</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Main Table/Encounters">Main Table/Encounters</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="General">General</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Encounter Culling">Encounter Culling</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Zone View Options">Zone View Options</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Encounter View Options">Encounter View Options</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Combatant View Options">Combatant View Options</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="DamageType View Options">DamageType View Options</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="AttackType View Options">AttackType View Options</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Output Display">Output Display</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Graphing">Graphing</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Mini Parse Window">Mini Parse Window</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Text Export Settings">Text Export Settings</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="ODBC (SQL)">ODBC (SQL)</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="ACT Web Server">ACT Web Server</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="HTML File Generation">HTML File Generation</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Color and Font Settings">Color and Font Settings</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Main User Interface">Main User Interface</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Selective Parsing">Selective Parsing</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Data Correction">Data Correction</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Combatant Rename">Combatant Rename</TreeViewTranslationEntry>
+  <TreeViewTranslationEntry Original="Ability Redirect">Ability Redirect</TreeViewTranslationEntry>
+</ArrayOfTreeViewTranslationEntry>
